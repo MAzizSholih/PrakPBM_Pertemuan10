@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Susun Kata</string>
+    <string name="instructions">Susunlah menjadi sebuah kata dari huruf di atas.</string>
+    <string name="lewati">Lewati</string>
+    <string name="submit">Submit</string>
+    <string name="skor">Skor: %d</string>
+    <string name="jumlah_kata">%d/10</string>
+    <string name="masukan_kata_anda">Masukan kata anda</string>
+    <string name="selamat">SELAMAT!</string>
+    <string name="skor_anda">"Skor anda: %d"</string>
+    <string name="keluar">Keluar</string>
+    <string name="main_lagi">Main Lagi</string>
+    <string name="tebakan_salah">TEBAKAN SALAH!</string>
+</resources>
